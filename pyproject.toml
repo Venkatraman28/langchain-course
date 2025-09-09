@@ -11,11 +11,13 @@ dependencies = [
     "langchain>=0.3.27",
     "langchain-chroma>=0.2.5",
     "langchain-community>=0.3.29",
+    "langchain-experimental>=0.3.4",
     "langchain-openai>=0.3.32",
     "langchain-pinecone>=0.2.12",
     "langchain-tavily>=0.2.11",
     "langchainhub>=0.1.21",
     "onnxruntime<1.20",
     "python-dotenv>=1.1.1",
+    "qrcode>=8.2",
     "streamlit>=1.49.1",
 ]
