@@ -16,6 +16,7 @@ dependencies = [
     "langchain-pinecone>=0.2.12",
     "langchain-tavily>=0.2.11",
     "langchainhub>=0.1.21",
+    "langgraph>=0.6.7",
     "onnxruntime<1.20",
     "python-dotenv>=1.1.1",
     "qrcode>=8.2",
